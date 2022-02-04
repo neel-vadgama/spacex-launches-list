@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## SnapShot of Project
-![spacex-launches-list](/public/spacex-launches-list)
+![spacex-launches-list](./public/spacex-launches-list.png)
 
 ## Getting Started
 
